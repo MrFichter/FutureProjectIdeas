@@ -20,4 +20,7 @@ listings, or is that separate?) Maybe also search Amazon to get a baseline price
 worldcat.org attempts to do this, but they don't list DC or Moco libraries.
 Here's a link to worldcat's API: http://www.worldcat.org/affiliate/tools?atype=wcapi
 
+Maybe I could turn my Getting Things Done organizer list into a web-based app.
+Could I program it to postpone or re-sort tasks quickly? To capture new tasks?
+
 
