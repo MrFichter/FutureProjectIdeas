@@ -23,4 +23,14 @@ Here's a link to worldcat's API: http://www.worldcat.org/affiliate/tools?atype=w
 Maybe I could turn my Getting Things Done organizer list into a web-based app.
 Could I program it to postpone or re-sort tasks quickly? To capture new tasks?
 
+Google Docs currently doesn't allow you to pre-populate the options
+on a form. Creating a multiple-choice form where every teacher
+(or student) in the school would be a read headache as a result,
+because I'd have to type in every name manually. Although there's
+no way to make each name appear as a pull-down or radio-button 
+choice, there appears to be a away to make the form question a 
+simple text box and to pull the answer from a spreadsheet. Check
+out this link to follow up: http://support.google.com/drive/bin/answer.py?hl=en&answer=160000
+
+
 
