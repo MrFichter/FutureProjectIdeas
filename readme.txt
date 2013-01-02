@@ -32,7 +32,5 @@ choice, there appears to be a away to make the form question a
 simple text box and to pull the answer from a spreadsheet. Check
 out this link to follow up: http://support.google.com/drive/bin/answer.py?hl=en&answer=160000
 
-Test: What if I change two projects before pushing?
-
 
 
