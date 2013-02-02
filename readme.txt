@@ -25,12 +25,6 @@ towards which I can aspire.(I learned about it through an email Aaron Titus
 sent to the DC PYthon Meetup list.
 http://code.google.com/p/sandy-disaster-recovery/source/browse/#svn%2Ftrunk%2Fsandy-disaster-recovery
 
-Using Google Apps Scripts, it would be nice to write a program 
-that automatically emails people the results when they take a quiz
-with Google Forms. For starters, have it send individual emails
-when the teacher clicks something. Start with this tutorial:
-https://developers.google.com/apps-script/articles/mail_merge
-
 When someone mentions a book worth reading, it might be neat to build a web scraper
 that would automatically search the DC Library and Montgomery County Public Library
 to see if it's available. (Note to self: Does their usual catalog include Overdrive
@@ -41,7 +35,6 @@ Here's a link to worldcat's API: http://www.worldcat.org/affiliate/tools?atype=w
 Maybe I could turn my Getting Things Done organizer list into a web-based app.
 Could I program it to postpone or re-sort tasks quickly? To capture new tasks?
 UpDate: Tom Baker's mklists project does this! https://github.com/tombaker/mklists
-
 
 Google Docs currently doesn't allow you to pre-populate the options
 on a form. Creating a multiple-choice form where every teacher
@@ -55,3 +48,4 @@ Also consider skipping the form and just using a script that
 solicits input from the user. There's a tutorial on this, and
 Flubaroo's code can give some useful examples, too.
 
+Google Apps Script self-grading and mail merging from scratch.
