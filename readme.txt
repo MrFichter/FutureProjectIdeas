@@ -1,3 +1,11 @@
+Practice webscraper2.
+
+Raspberry pi manual: http://downloads.raspberrypi.org/Raspberry_Pi_Education_Manual.pdf
+
+Games from Dawson Python book.
+
+Regular expressions: Challenges posed by @Fichtitious.
+
 Terms of Service; Didn't Read has an api and posts their source code on github. 
 I'm not sure if their project has room for beginners to contribute, but I'm interested in the subject matter.
 Links:
@@ -31,6 +39,9 @@ no way to make each name appear as a pull-down or radio-button
 choice, there appears to be a away to make the form question a 
 simple text box and to pull the answer from a spreadsheet. Check
 out this link to follow up: http://support.google.com/drive/bin/answer.py?hl=en&answer=160000
+Also consider skipping the form and just using a script that 
+solicits input from the user. There's a tutorial on this, and
+Flubaroo's code can give some useful examples, too.
 
 
 
