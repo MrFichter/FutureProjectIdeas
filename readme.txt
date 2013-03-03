@@ -15,6 +15,10 @@ https://github.com/NahimNasser/django-unchained
 
 Regular expressions: Challenges posed by @Fichtitious.
 
+IF you want to do more web scraping, @Fichtitious recommends 
+common crawl, which indexes the whole web. He has something on his
+github page that makes it easier to find what you want in the index.
+
 Terms of Service; Didn't Read has an api and posts their source code on github. 
 I'm not sure if their project has room for beginners to contribute, but I'm interested in the subject matter.
 Links:
