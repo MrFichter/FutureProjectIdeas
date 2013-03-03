@@ -1,10 +1,16 @@
-Practice webscraper2.
+Practice webscraper2. Try non-greedy multiline search. You can take out all
+of the new lines from the text you're about to search, too.
 
 The Scratch, Python, and hardware projects described in this manual would
 be great to try:
 http://downloads.raspberrypi.org/Raspberry_Pi_Education_Manual.pdf
 
+Jeff Elkner's open book project publication about Python.
+
 Games from Dawson Python book.
+
+Django. Here's an interesting resource: 
+https://github.com/NahimNasser/django-unchained
 
 Regular expressions: Challenges posed by @Fichtitious.
 
