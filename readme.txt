@@ -1,7 +1,3 @@
-Practice webscraper2. Try non-greedy multiline search. You can take out all
-of the new lines from the text you're about to search, too.
-Finally, I should experiment with lookahead and lookbehind features.
-
 The Scratch, Python, and hardware projects described in this manual would
 be great to try:
 http://downloads.raspberrypi.org/Raspberry_Pi_Education_Manual.pdf
