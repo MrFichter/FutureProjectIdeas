@@ -57,4 +57,3 @@ Flubaroo's code can give some useful examples, too.
 
 Google Apps Script self-grading and mail merging from scratch.
 
-[sample addition of text]
