@@ -9,6 +9,9 @@ Games from Dawson Python book.
 Django. Here's an interesting resource: 
 https://github.com/NahimNasser/django-unchained
 
+codeacademy's sections on APIs like YouTube, Twitter, Evernote, Twilio, 
+bitly, npr, sunlight foundation, and Mandrill (which sends mass mails).
+
 Regular expressions: Challenges posed by @Fichtitious.
 
 IF you want to do more web scraping, @Fichtitious recommends 
