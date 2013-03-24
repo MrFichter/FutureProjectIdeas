@@ -59,4 +59,3 @@ solicits input from the user. There's a tutorial on this, and
 Flubaroo's code can give some useful examples, too.
 
 Google Apps Script self-grading and mail merging from scratch.
-sample change
