@@ -4,10 +4,19 @@ http://downloads.raspberrypi.org/Raspberry_Pi_Education_Manual.pdf
 
 Jeff Elkner's open book project publication about Python.
 
+MCPL online Python for kids book:
+http://mdpl.ent.sirsi.net/client/catalog/search/results?qu=python%20for%20kids
+
+ 
+
 Games from Dawson Python book.
 
 Django. Here's an interesting resource: 
 https://github.com/NahimNasser/django-unchained
+
+flask hello world: 
+http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
 
 codeacademy's sections on APIs like YouTube, Twitter, Evernote, Twilio, 
 bitly, npr, sunlight foundation, and Mandrill (which sends mass mails).
