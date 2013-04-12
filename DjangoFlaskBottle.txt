@@ -1,0 +1,23 @@
+flask tutorial
+http://flask.pocoo.org/docs/tutorial/
+
+Django tutorial from their documentation site.
+Helps you create a poll.
+https://docs.djangoproject.com/en/1.5/intro/tutorial01/
+
+flask hello world: 
+http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
+Two Scoops of Django
+Django book useful for when you finish intro tutorirals:		
+https://django.2scoops.org/
+
+Django Unchained
+https://github.com/NahimNasser/django-unchained
+
+Bottle is like Flask.
+Here's a tutorial.
+NB: I'm not sure this would meet Matt's criteria for convincing 
+14 year-olds that it's awesome right off the bat.
+http://bottlepy.org/docs/dev/tutorial.html
+
