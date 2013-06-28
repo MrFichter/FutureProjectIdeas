@@ -1,3 +1,13 @@
+Flask tutorial (flask1)
+
+Modifying Minecraft with Python.
+Simplified minecraft version in Python:
+https://github.com/fogleman/Minecraft
+
+Mozilla #maketheweb projects.
+
+Learn something in Processing.
+
 The Scratch, Python, and hardware projects described in this manual would
 be great to try:
 http://downloads.raspberrypi.org/Raspberry_Pi_Education_Manual.pdf
